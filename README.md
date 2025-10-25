@@ -8,3 +8,6 @@ The analysis focuses on two main areas:
 2) Production Mix: Showing the shift in electricity generation sources, comparing fossil fuels (coal, oil, gas) against cleaner alternatives (renewable, hydro, nuclear).
 
 The final interactive dashboard lets users quickly compare countries, see how energy production is changing, and identify which nations are successfully expanding electricity access.
+
+Data Source
+World Bank: Access to Electricity Data (EG.ELC.ACCS.ZS)
